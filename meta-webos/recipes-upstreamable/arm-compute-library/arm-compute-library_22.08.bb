@@ -3,7 +3,7 @@ DESCRIPTION = "The ARM Computer Vision and Machine Learning library is a set of 
 LICENSE = "MIT"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=f3c5879801d3cffc4ac2399f2b8e8ec5"
 
-SRCBRANCH = "main"
+SRCBRANCH = "archived-releases"
 # Matches v${PV}
 SRCREV = "aabef6c0584f06f4c0f4b61fb787d80374240619"
 
